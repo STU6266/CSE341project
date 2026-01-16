@@ -5,9 +5,9 @@
     "description": "CSE 341 Project 2 - Brands & Filaments API",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+
   "basePath": "/",
-  "schemes": ["http"],
+
   "paths": {
     "/": {
       "get": {
