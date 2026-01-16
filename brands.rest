@@ -1,0 +1,3 @@
+
+### Get all brands (check result)
+GET http://localhost:3000/brands
